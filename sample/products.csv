@@ -1,0 +1,501 @@
+product_id,name,category
+1,Product_1,Books
+2,Product_2,Books
+3,Product_3,Clothing
+4,Product_4,Electronics
+5,Product_5,Clothing
+6,Product_6,Electronics
+7,Product_7,Sports
+8,Product_8,Books
+9,Product_9,Books
+10,Product_10,Books
+11,Product_11,Home & Kitchen
+12,Product_12,Electronics
+13,Product_13,Electronics
+14,Product_14,Home & Kitchen
+15,Product_15,Home & Kitchen
+16,Product_16,Sports
+17,Product_17,Clothing
+18,Product_18,Home & Kitchen
+19,Product_19,Clothing
+20,Product_20,Books
+21,Product_21,Home & Kitchen
+22,Product_22,Home & Kitchen
+23,Product_23,Clothing
+24,Product_24,Home & Kitchen
+25,Product_25,Home & Kitchen
+26,Product_26,Home & Kitchen
+27,Product_27,Clothing
+28,Product_28,Clothing
+29,Product_29,Sports
+30,Product_30,Home & Kitchen
+31,Product_31,Electronics
+32,Product_32,Clothing
+33,Product_33,Sports
+34,Product_34,Sports
+35,Product_35,Books
+36,Product_36,Home & Kitchen
+37,Product_37,Electronics
+38,Product_38,Sports
+39,Product_39,Electronics
+40,Product_40,Home & Kitchen
+41,Product_41,Sports
+42,Product_42,Clothing
+43,Product_43,Home & Kitchen
+44,Product_44,Clothing
+45,Product_45,Books
+46,Product_46,Electronics
+47,Product_47,Books
+48,Product_48,Clothing
+49,Product_49,Sports
+50,Product_50,Electronics
+51,Product_51,Sports
+52,Product_52,Sports
+53,Product_53,Sports
+54,Product_54,Sports
+55,Product_55,Home & Kitchen
+56,Product_56,Books
+57,Product_57,Electronics
+58,Product_58,Electronics
+59,Product_59,Sports
+60,Product_60,Electronics
+61,Product_61,Clothing
+62,Product_62,Home & Kitchen
+63,Product_63,Electronics
+64,Product_64,Home & Kitchen
+65,Product_65,Sports
+66,Product_66,Books
+67,Product_67,Clothing
+68,Product_68,Electronics
+69,Product_69,Books
+70,Product_70,Books
+71,Product_71,Clothing
+72,Product_72,Electronics
+73,Product_73,Books
+74,Product_74,Books
+75,Product_75,Electronics
+76,Product_76,Electronics
+77,Product_77,Electronics
+78,Product_78,Home & Kitchen
+79,Product_79,Books
+80,Product_80,Books
+81,Product_81,Books
+82,Product_82,Clothing
+83,Product_83,Home & Kitchen
+84,Product_84,Sports
+85,Product_85,Electronics
+86,Product_86,Clothing
+87,Product_87,Electronics
+88,Product_88,Clothing
+89,Product_89,Clothing
+90,Product_90,Sports
+91,Product_91,Sports
+92,Product_92,Electronics
+93,Product_93,Sports
+94,Product_94,Sports
+95,Product_95,Home & Kitchen
+96,Product_96,Sports
+97,Product_97,Electronics
+98,Product_98,Electronics
+99,Product_99,Electronics
+100,Product_100,Electronics
+101,Product_101,Home & Kitchen
+102,Product_102,Home & Kitchen
+103,Product_103,Electronics
+104,Product_104,Books
+105,Product_105,Electronics
+106,Product_106,Clothing
+107,Product_107,Books
+108,Product_108,Home & Kitchen
+109,Product_109,Electronics
+110,Product_110,Home & Kitchen
+111,Product_111,Books
+112,Product_112,Home & Kitchen
+113,Product_113,Books
+114,Product_114,Sports
+115,Product_115,Electronics
+116,Product_116,Books
+117,Product_117,Sports
+118,Product_118,Sports
+119,Product_119,Electronics
+120,Product_120,Clothing
+121,Product_121,Clothing
+122,Product_122,Clothing
+123,Product_123,Sports
+124,Product_124,Clothing
+125,Product_125,Electronics
+126,Product_126,Home & Kitchen
+127,Product_127,Books
+128,Product_128,Electronics
+129,Product_129,Books
+130,Product_130,Clothing
+131,Product_131,Electronics
+132,Product_132,Sports
+133,Product_133,Sports
+134,Product_134,Books
+135,Product_135,Books
+136,Product_136,Clothing
+137,Product_137,Sports
+138,Product_138,Clothing
+139,Product_139,Clothing
+140,Product_140,Clothing
+141,Product_141,Electronics
+142,Product_142,Books
+143,Product_143,Clothing
+144,Product_144,Clothing
+145,Product_145,Clothing
+146,Product_146,Books
+147,Product_147,Home & Kitchen
+148,Product_148,Sports
+149,Product_149,Books
+150,Product_150,Sports
+151,Product_151,Electronics
+152,Product_152,Clothing
+153,Product_153,Home & Kitchen
+154,Product_154,Sports
+155,Product_155,Sports
+156,Product_156,Electronics
+157,Product_157,Clothing
+158,Product_158,Books
+159,Product_159,Sports
+160,Product_160,Home & Kitchen
+161,Product_161,Clothing
+162,Product_162,Books
+163,Product_163,Clothing
+164,Product_164,Electronics
+165,Product_165,Clothing
+166,Product_166,Home & Kitchen
+167,Product_167,Electronics
+168,Product_168,Sports
+169,Product_169,Clothing
+170,Product_170,Electronics
+171,Product_171,Clothing
+172,Product_172,Clothing
+173,Product_173,Home & Kitchen
+174,Product_174,Sports
+175,Product_175,Electronics
+176,Product_176,Clothing
+177,Product_177,Sports
+178,Product_178,Clothing
+179,Product_179,Books
+180,Product_180,Sports
+181,Product_181,Home & Kitchen
+182,Product_182,Home & Kitchen
+183,Product_183,Home & Kitchen
+184,Product_184,Home & Kitchen
+185,Product_185,Sports
+186,Product_186,Clothing
+187,Product_187,Sports
+188,Product_188,Home & Kitchen
+189,Product_189,Sports
+190,Product_190,Home & Kitchen
+191,Product_191,Home & Kitchen
+192,Product_192,Sports
+193,Product_193,Books
+194,Product_194,Electronics
+195,Product_195,Books
+196,Product_196,Home & Kitchen
+197,Product_197,Sports
+198,Product_198,Books
+199,Product_199,Clothing
+200,Product_200,Sports
+201,Product_201,Home & Kitchen
+202,Product_202,Books
+203,Product_203,Books
+204,Product_204,Books
+205,Product_205,Home & Kitchen
+206,Product_206,Sports
+207,Product_207,Electronics
+208,Product_208,Home & Kitchen
+209,Product_209,Books
+210,Product_210,Clothing
+211,Product_211,Home & Kitchen
+212,Product_212,Books
+213,Product_213,Clothing
+214,Product_214,Sports
+215,Product_215,Clothing
+216,Product_216,Sports
+217,Product_217,Home & Kitchen
+218,Product_218,Clothing
+219,Product_219,Electronics
+220,Product_220,Books
+221,Product_221,Electronics
+222,Product_222,Books
+223,Product_223,Clothing
+224,Product_224,Sports
+225,Product_225,Electronics
+226,Product_226,Electronics
+227,Product_227,Clothing
+228,Product_228,Clothing
+229,Product_229,Books
+230,Product_230,Books
+231,Product_231,Books
+232,Product_232,Electronics
+233,Product_233,Clothing
+234,Product_234,Clothing
+235,Product_235,Home & Kitchen
+236,Product_236,Home & Kitchen
+237,Product_237,Home & Kitchen
+238,Product_238,Clothing
+239,Product_239,Books
+240,Product_240,Books
+241,Product_241,Sports
+242,Product_242,Electronics
+243,Product_243,Clothing
+244,Product_244,Sports
+245,Product_245,Books
+246,Product_246,Books
+247,Product_247,Books
+248,Product_248,Sports
+249,Product_249,Electronics
+250,Product_250,Sports
+251,Product_251,Clothing
+252,Product_252,Sports
+253,Product_253,Electronics
+254,Product_254,Electronics
+255,Product_255,Electronics
+256,Product_256,Books
+257,Product_257,Books
+258,Product_258,Electronics
+259,Product_259,Books
+260,Product_260,Home & Kitchen
+261,Product_261,Sports
+262,Product_262,Home & Kitchen
+263,Product_263,Clothing
+264,Product_264,Sports
+265,Product_265,Electronics
+266,Product_266,Books
+267,Product_267,Books
+268,Product_268,Books
+269,Product_269,Clothing
+270,Product_270,Books
+271,Product_271,Books
+272,Product_272,Sports
+273,Product_273,Electronics
+274,Product_274,Electronics
+275,Product_275,Books
+276,Product_276,Electronics
+277,Product_277,Books
+278,Product_278,Sports
+279,Product_279,Home & Kitchen
+280,Product_280,Clothing
+281,Product_281,Books
+282,Product_282,Books
+283,Product_283,Books
+284,Product_284,Home & Kitchen
+285,Product_285,Books
+286,Product_286,Clothing
+287,Product_287,Home & Kitchen
+288,Product_288,Electronics
+289,Product_289,Clothing
+290,Product_290,Books
+291,Product_291,Electronics
+292,Product_292,Electronics
+293,Product_293,Home & Kitchen
+294,Product_294,Home & Kitchen
+295,Product_295,Electronics
+296,Product_296,Home & Kitchen
+297,Product_297,Home & Kitchen
+298,Product_298,Sports
+299,Product_299,Home & Kitchen
+300,Product_300,Electronics
+301,Product_301,Home & Kitchen
+302,Product_302,Books
+303,Product_303,Clothing
+304,Product_304,Home & Kitchen
+305,Product_305,Home & Kitchen
+306,Product_306,Clothing
+307,Product_307,Books
+308,Product_308,Sports
+309,Product_309,Electronics
+310,Product_310,Home & Kitchen
+311,Product_311,Electronics
+312,Product_312,Electronics
+313,Product_313,Books
+314,Product_314,Electronics
+315,Product_315,Home & Kitchen
+316,Product_316,Books
+317,Product_317,Home & Kitchen
+318,Product_318,Electronics
+319,Product_319,Home & Kitchen
+320,Product_320,Clothing
+321,Product_321,Home & Kitchen
+322,Product_322,Sports
+323,Product_323,Home & Kitchen
+324,Product_324,Electronics
+325,Product_325,Books
+326,Product_326,Books
+327,Product_327,Home & Kitchen
+328,Product_328,Home & Kitchen
+329,Product_329,Clothing
+330,Product_330,Clothing
+331,Product_331,Electronics
+332,Product_332,Sports
+333,Product_333,Home & Kitchen
+334,Product_334,Electronics
+335,Product_335,Clothing
+336,Product_336,Books
+337,Product_337,Books
+338,Product_338,Electronics
+339,Product_339,Home & Kitchen
+340,Product_340,Sports
+341,Product_341,Sports
+342,Product_342,Books
+343,Product_343,Home & Kitchen
+344,Product_344,Electronics
+345,Product_345,Electronics
+346,Product_346,Sports
+347,Product_347,Sports
+348,Product_348,Home & Kitchen
+349,Product_349,Clothing
+350,Product_350,Home & Kitchen
+351,Product_351,Electronics
+352,Product_352,Home & Kitchen
+353,Product_353,Clothing
+354,Product_354,Books
+355,Product_355,Clothing
+356,Product_356,Sports
+357,Product_357,Sports
+358,Product_358,Sports
+359,Product_359,Electronics
+360,Product_360,Electronics
+361,Product_361,Books
+362,Product_362,Electronics
+363,Product_363,Sports
+364,Product_364,Home & Kitchen
+365,Product_365,Home & Kitchen
+366,Product_366,Books
+367,Product_367,Home & Kitchen
+368,Product_368,Clothing
+369,Product_369,Sports
+370,Product_370,Clothing
+371,Product_371,Sports
+372,Product_372,Books
+373,Product_373,Electronics
+374,Product_374,Electronics
+375,Product_375,Home & Kitchen
+376,Product_376,Electronics
+377,Product_377,Electronics
+378,Product_378,Electronics
+379,Product_379,Sports
+380,Product_380,Electronics
+381,Product_381,Clothing
+382,Product_382,Books
+383,Product_383,Books
+384,Product_384,Books
+385,Product_385,Books
+386,Product_386,Books
+387,Product_387,Clothing
+388,Product_388,Clothing
+389,Product_389,Home & Kitchen
+390,Product_390,Clothing
+391,Product_391,Home & Kitchen
+392,Product_392,Books
+393,Product_393,Home & Kitchen
+394,Product_394,Electronics
+395,Product_395,Sports
+396,Product_396,Electronics
+397,Product_397,Sports
+398,Product_398,Sports
+399,Product_399,Books
+400,Product_400,Electronics
+401,Product_401,Sports
+402,Product_402,Home & Kitchen
+403,Product_403,Sports
+404,Product_404,Books
+405,Product_405,Electronics
+406,Product_406,Electronics
+407,Product_407,Books
+408,Product_408,Clothing
+409,Product_409,Electronics
+410,Product_410,Electronics
+411,Product_411,Clothing
+412,Product_412,Clothing
+413,Product_413,Home & Kitchen
+414,Product_414,Books
+415,Product_415,Clothing
+416,Product_416,Electronics
+417,Product_417,Home & Kitchen
+418,Product_418,Clothing
+419,Product_419,Sports
+420,Product_420,Electronics
+421,Product_421,Clothing
+422,Product_422,Clothing
+423,Product_423,Clothing
+424,Product_424,Electronics
+425,Product_425,Electronics
+426,Product_426,Sports
+427,Product_427,Home & Kitchen
+428,Product_428,Clothing
+429,Product_429,Books
+430,Product_430,Clothing
+431,Product_431,Electronics
+432,Product_432,Sports
+433,Product_433,Clothing
+434,Product_434,Sports
+435,Product_435,Electronics
+436,Product_436,Home & Kitchen
+437,Product_437,Electronics
+438,Product_438,Electronics
+439,Product_439,Home & Kitchen
+440,Product_440,Electronics
+441,Product_441,Electronics
+442,Product_442,Clothing
+443,Product_443,Books
+444,Product_444,Clothing
+445,Product_445,Home & Kitchen
+446,Product_446,Books
+447,Product_447,Books
+448,Product_448,Books
+449,Product_449,Electronics
+450,Product_450,Electronics
+451,Product_451,Sports
+452,Product_452,Clothing
+453,Product_453,Sports
+454,Product_454,Sports
+455,Product_455,Home & Kitchen
+456,Product_456,Clothing
+457,Product_457,Electronics
+458,Product_458,Books
+459,Product_459,Sports
+460,Product_460,Home & Kitchen
+461,Product_461,Home & Kitchen
+462,Product_462,Books
+463,Product_463,Sports
+464,Product_464,Books
+465,Product_465,Clothing
+466,Product_466,Books
+467,Product_467,Clothing
+468,Product_468,Clothing
+469,Product_469,Home & Kitchen
+470,Product_470,Clothing
+471,Product_471,Clothing
+472,Product_472,Sports
+473,Product_473,Home & Kitchen
+474,Product_474,Home & Kitchen
+475,Product_475,Electronics
+476,Product_476,Home & Kitchen
+477,Product_477,Home & Kitchen
+478,Product_478,Home & Kitchen
+479,Product_479,Sports
+480,Product_480,Electronics
+481,Product_481,Clothing
+482,Product_482,Home & Kitchen
+483,Product_483,Clothing
+484,Product_484,Home & Kitchen
+485,Product_485,Clothing
+486,Product_486,Books
+487,Product_487,Sports
+488,Product_488,Clothing
+489,Product_489,Electronics
+490,Product_490,Sports
+491,Product_491,Clothing
+492,Product_492,Home & Kitchen
+493,Product_493,Home & Kitchen
+494,Product_494,Sports
+495,Product_495,Electronics
+496,Product_496,Electronics
+497,Product_497,Electronics
+498,Product_498,Home & Kitchen
+499,Product_499,Sports
+500,Product_500,Home & Kitchen

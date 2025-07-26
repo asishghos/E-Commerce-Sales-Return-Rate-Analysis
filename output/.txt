@@ -1,0 +1,101 @@
+🛠️ Starting PySpark Analysis...
+-> SparkSession initialized.
+-> DataFrames loaded and cleaned.
+-> DataFrames joined successfully.
+
+--- Joined DataFrame Schema ---
+root
+ |-- user_id: integer (nullable = true)
+ |-- product_id: integer (nullable = true)
+ |-- order_id: integer (nullable = true)
+ |-- order_date: date (nullable = true)
+ |-- price: double (nullable = true)
+ |-- quantity: integer (nullable = true)
+ |-- is_returned: integer (nullable = true)
+ |-- name: string (nullable = true)
+ |-- category: string (nullable = true)
+ |-- location: string (nullable = true)
+ |-- signup_date: date (nullable = true)
+
+
+📈 Calculating Business Metrics...
+
+--- Total Revenue by Category ---
++--------------+-------------+
+|      category|total_revenue|
++--------------+-------------+
+|   Electronics|1.391556375E7|
+|Home & Kitchen|1.303797409E7|
+|      Clothing|1.276605578E7|
+|         Books|1.256293735E7|
+|        Sports|1.150211136E7|
++--------------+-------------+
+
+
+--- Monthly Sales Trend ---
++----------+-----------+-----------+
+|sales_year|sales_month|total_sales|
++----------+-----------+-----------+
+|      2023|          7|  514317.72|
+|      2023|          8| 2719626.71|
+|      2023|          9| 2632990.02|
+|      2023|         10| 2662399.27|
+|      2023|         11| 2710979.22|
+|      2023|         12| 2682614.07|
+|      2024|          1| 2644923.63|
+|      2024|          2| 2611303.78|
+|      2024|          3| 2619907.56|
+|      2024|          4| 2554907.84|
+|      2024|          5| 2635786.18|
+|      2024|          6| 2595070.28|
+|      2024|          7| 2738857.59|
+|      2024|          8| 2730625.82|
+|      2024|          9| 2641568.52|
+|      2024|         10| 2746524.56|
+|      2024|         11| 2684746.46|
+|      2024|         12| 2705979.77|
+|      2025|          1| 2730022.08|
+|      2025|          2| 2438227.91|
+|      2025|          3| 2669920.85|
+|      2025|          4| 2575719.72|
+|      2025|          5| 2692032.27|
+|      2025|          6| 2587628.56|
+|      2025|          7| 2257961.94|
++----------+-----------+-----------+
+
+
+--- Return Rate by Category (%) ---
++--------------+------------+---------------+-----------+
+|      category|total_orders|returned_orders|return_rate|
++--------------+------------+---------------+-----------+
+|        Sports|       18083|           1851|      10.24|
+|      Clothing|       19974|           2002|      10.02|
+|   Electronics|       21791|           2175|       9.98|
+|Home & Kitchen|       20372|           2021|       9.92|
+|         Books|       19780|           1940|       9.81|
++--------------+------------+---------------+-----------+
+
+
+--- Top 5 Users by Total Spend ---
++-------+-----------+
+|user_id|total_spend|
++-------+-----------+
+|    954|   30021.42|
+|   3054|   29304.29|
+|   4306|   27493.61|
+|   2041|   26825.51|
+|    880|   26479.19|
++-------+-----------+
+
+
+--- Category with Highest Return Rate ---
+Category: Sports
+Return Rate: 10.24%
+
+✅ KPI calculation complete.
+
+📊 Generating visualization...
+
+✅ Visualization generated.
+
+🎉 Project finished. SparkSession stopped.
