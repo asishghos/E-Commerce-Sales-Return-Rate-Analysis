@@ -38,7 +38,7 @@ The PySpark script calculates the following key business metrics:
 4.  **Top 5 Users by Spend:** Highlights the most valuable customers for loyalty programs and targeted marketing.
 5.  **Category with Highest Return Rate:** Quickly flags the most problematic product category.
 
-![Monthly Sales Trend](https://i.imgur.com/u7qFk9a.png)
+![Monthly Sales Trend](https://github.com/asishghos/E-Commerce-Sales-Return-Rate-Analysis/blob/main/output/download.png)
 *(Sample visualization generated from the analysis)*
 
 ## 🛠️ How to Run
